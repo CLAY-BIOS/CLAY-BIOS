@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋， I am [CLAY-BIOS](https://github.com/CLAY-BIOS)
 
+> 一个混吃等死的技术宅，喜欢编程、skateboard、Balisong、Hackintosh。
 <!--
 **CLAY-BIOS/CLAY-BIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
