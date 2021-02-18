@@ -8,6 +8,12 @@ A technical nerd who eats and waits to die, likes programming、skateboard、Bal
 
 
 - 🌱 I’m currently learning QT、UE4、IOKit、Objective-C.
+
+<a href="https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-Big-Sur-OpenCore">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mendax1234&repo=Lenovo-ThinkPad-T450s-Hackintosh-Big-Sur-OpenCore" />
+</a>    
+
 <!--
 **CLAY-BIOS/CLAY-BIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
