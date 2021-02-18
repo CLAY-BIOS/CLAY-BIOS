@@ -11,7 +11,7 @@ A technical nerd who eats and waits to die, likes programming、skateboard、Bal
 
 <a href="https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-Big-Sur-OpenCore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CLAY-BIOS&repo=ThinkPad-T450s-Hackintosh-Big-Sur-OpenCore" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CLAY-BIOS&repo=Lenovo-ThinkPad-T450s-Hackintosh-Big-Sur-OpenCore" />
 </a>    
 
 <!--
